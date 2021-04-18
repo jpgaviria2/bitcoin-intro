@@ -186,7 +186,7 @@ Nota: La ejecución de un nodo solo lo beneficia si usa su nodo para enviar y re
 2. Transfiera algo de bitcoin (una pequeña cantidad)
 3. Envia bitcoins sobre Lightning
 4. Mira <a href="https://www.youtube-nocookie.com/embed/3PcR4HWJnkY" target="_blank">The Importance of Layer Two</a>
-5. Lee <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/QA%20bitcoin-159-165.pdf" target="_blank">LNP/BP</a> en comparación con TCP / IP (extracto de <a href="https://twitter.com/QAaboutBitcoin" target="_blank">Q/A About Bitcoin</a>).
+5. Lee <a href="https://github.com/bitcoin-intro/bitcoin-intro/raw/main/QA%20bitcoin-159-165.pdf"" target="_blank">LNP/BP</a> en comparación con TCP / IP (extracto de <a href="https://twitter.com/QAaboutBitcoin" target="_blank">Q/A About Bitcoin</a>).
 
 -----
 

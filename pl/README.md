@@ -155,7 +155,7 @@ Uwaga: prowadzenie węzła przynosi korzyści tylko wtedy, gdy używasz węzła 
 2. Prześlij na niego trochę bitcoinów (małą ilość)
 3. Wyślij bitcoin poprzez lightning
 4. Obejrzyj <a href="https://www.youtube-nocookie.com/embed/3PcR4HWJnkY" target="_blank">The Importance of Layer Two</a> (15m)
-5. Przeczytaj <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/QA%20bitcoin-159-165.pdf" target="_blank">LNP/BP</a> jako porównanie do protokołu TCP/IP (fragment <a href="https://twitter.com/QAaboutBitcoin" target="_blank">Q/A About Bitcoin</a>).
+5. Przeczytaj <a href="https://github.com/bitcoin-intro/bitcoin-intro/raw/main/QA%20bitcoin-159-165.pdf"" target="_blank">LNP/BP</a> jako porównanie do protokołu TCP/IP (fragment <a href="https://twitter.com/QAaboutBitcoin" target="_blank">Q/A About Bitcoin</a>).
 
 -----
 

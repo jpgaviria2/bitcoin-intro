@@ -191,7 +191,7 @@ Nota: Rodar um node apenas beneficiará você se você usar seu node para enviar
 2. Transfira um pouco de bitcoin para ela (pouco)
 3. Envie bitcoin pela rede lighting
 4. Assista <a href="https://www.youtube-nocookie.com/embed/3PcR4HWJnkY" target="_blank">The Importance of Layer Two (A importância da segunda camada)</a>
-5. Leia <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/QA%20bitcoin-159-165.pdf" target="_blank">LNP/BP</a> em comparação ao TCP/IP (extraído de <a href="https://twitter.com/QAaboutBitcoin" target="_blank">Perguntas/Respostas sobre Bitcoin</a>).
+5. Leia <a href="https://github.com/bitcoin-intro/bitcoin-intro/raw/main/QA%20bitcoin-159-165.pdf"" target="_blank">LNP/BP</a> em comparação ao TCP/IP (extraído de <a href="https://twitter.com/QAaboutBitcoin" target="_blank">Perguntas/Respostas sobre Bitcoin</a>).
 
 -----
 

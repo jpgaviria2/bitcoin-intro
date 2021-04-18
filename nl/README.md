@@ -161,7 +161,7 @@ N.b.: Het gebruiken van een Node heeft alleen maar voordeel als je hem ook daadw
 *Doel: Leren over het Lightning Network en hoe je het kunt gebruiken*
 
 1. Kijk <a href="https://www.youtube-nocookie.com/embed/3PcR4HWJnkY" target="_blank">The Importance of Layer Two</a>
-2. Lees <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/QA%20bitcoin-159-165.pdf" target="_blank">LNP/BP</a> as compared to TCP/IP (extract from <a href="https://twitter.com/QAaboutBitcoin" target="_blank">Q/A About Bitcoin</a>).
+2. Lees <a href="https://github.com/bitcoin-intro/bitcoin-intro/raw/main/QA%20bitcoin-159-165.pdf"" target="_blank">LNP/BP</a> as compared to TCP/IP (extract from <a href="https://twitter.com/QAaboutBitcoin" target="_blank">Q/A About Bitcoin</a>).
 3. Download een bitcoin lightning wallet, bijvoorbeeld <a href="https://breez.technology/" target="_blank">Breeze Wallet</a>
 4. Stuur wat sats (1/100 miljoenste bitcoin) naar de wallet
 5. (Als je iemand anders met een lightning wallet kent, of iets kunt kopen via Lightning:) Verstuur je sats naar een ander Lightning adres

@@ -350,7 +350,7 @@
   <li>قم بنقل بعض البيتكوين لتلك المحفظة (كمية صغيرة).</li>
   <li>قم بإرسال البيتكوين عن طريق "البرق".</li>
   <li>شاهد <a href="https://www.youtube-nocookie.com/embed/3PcR4HWJnkY" target="_blank">أهمية وجود طبقتان</a></li>
-  <li>اقرأ <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/QA%20bitcoin-159-165.pdf" target="_blank">LNP/BP</a> مقارنةً بـ TCP/IP (تم استخراجه من <a href="https://twitter.com/QAaboutBitcoin" target="_blank">أسئلة وأجوبة خاصة بالبيتكوين</a>).</li>
+  <li>اقرأ <a href="https://github.com/bitcoin-intro/bitcoin-intro/raw/main/QA%20bitcoin-159-165.pdf"" target="_blank">LNP/BP</a> مقارنةً بـ TCP/IP (تم استخراجه من <a href="https://twitter.com/QAaboutBitcoin" target="_blank">أسئلة وأجوبة خاصة بالبيتكوين</a>).</li>
 </ol>
 
 <hr>

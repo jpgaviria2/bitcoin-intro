@@ -205,7 +205,7 @@ Empfangen von Transaktionen verwendest.
 2. Sende etwas Bitcoin an deine Lightning Wallet.
 3. Sende ein paar Satoshis über Lightning.
 4. Schau dir <a href="https://www.youtube-nocookie.com/embed/3PcR4HWJnkY" target="_blank">The Importance of Layer Two</a> an.
-5. Lese den Vergleich von TCP/IP und <a href="https://github.com/6102bitcoin/bitcoin-intro/raw/master/QA%20bitcoin-159-165.pdf" target="_blank">LNP/BP</a> (ein Auszug von <a href="https://twitter.com/QAaboutBitcoin" target="_blank">Q/A About Bitcoin</a>).
+5. Lese den Vergleich von TCP/IP und <a href="https://github.com/bitcoin-intro/bitcoin-intro/raw/main/QA%20bitcoin-159-165.pdf"" target="_blank">LNP/BP</a> (ein Auszug von <a href="https://twitter.com/QAaboutBitcoin" target="_blank">Q/A About Bitcoin</a>).
 
 -----
 
