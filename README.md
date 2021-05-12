@@ -14,7 +14,7 @@
 ## Step 0. See the big picture
 *Aim: Understand why bitcoin is for you in <10 mins*
 
-1. Watch <a href="https://www.youtube-nocookie.com/embed/oubZGyDY4Dc" target="_blank">Bitcoin is for everyone</a> by Hello Bitcoin.
+1. Watch <a href="https://bitcointv.com/videos/watch/7ce7e850-3fc9-49e7-aa1b-16165f28f4e5" target="_blank">Bitcoin is for everyone</a> by Hello Bitcoin.
 
 -----
 

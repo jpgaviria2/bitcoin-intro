@@ -15,7 +15,7 @@
 ## Krok 0. Spójrz na to w szerszej perspektywie
 *Cel: Zrozumieć dlaczego Bitcoin jest dla Ciebie w <10 minut*
 
-1. Obejrzyj <a href="https://www.youtube-nocookie.com/embed/oubZGyDY4Dc" target="_blank">Bitcoin is for everyone</a> autorstwa Hello Bitcoin.
+1. Obejrzyj <a href="https://bitcointv.com/videos/watch/7ce7e850-3fc9-49e7-aa1b-16165f28f4e5" target="_blank">Bitcoin is for everyone</a> autorstwa Hello Bitcoin.
 
 -----
 
