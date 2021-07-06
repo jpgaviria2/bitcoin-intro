@@ -192,7 +192,7 @@ Nota bene: far girare un nodo è utile solo se lo usi per inviare e ricevere tra
 2. Trasferisci lì qualche bitcoin (una piccolissima quantità)
 3. Invia bitcoin attraverso Lightning
 4. Guarda <a href="https://www.youtube-nocookie.com/embed/3PcR4HWJnkY" target="_blank">The Importance of Layer Two</a>
-5. Leggi <a href="https://github.com/bitcoin-intro/bitcoin-intro/raw/main/QA%20bitcoin-159-165.pdf"" target="_blank">LNP/BP</a> as compared to TCP/IP (estratto in inglese da <a href="https://www.amazon.it/dp/B07ZTYBWN6/" target="_blank">Domande e risposte su Bitcoin</a>).
+5. Leggi <a href="https://github.com/bitcoin-intro/bitcoin-intro/raw/main/QA%20bitcoin-159-165.pdf" target="_blank">LNP/BP</a> as compared to TCP/IP (estratto in inglese da <a href="https://www.amazon.it/dp/B07ZTYBWN6/" target="_blank">Domande e risposte su Bitcoin</a>).
 
 -----
 
