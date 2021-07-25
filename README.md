@@ -42,6 +42,7 @@
 | GLOBAL    | <a href="https://hodlhodl.com/" target="_blank">Hodl Hodl </a> |
 | AUD       | <a href="https://amber.app/" target="_blank">Amber </a> |
 | AUD       | <a href="https://trade.bitaroo.com.au/express" target="_blank">Bitaroo </a> |
+| AUD       | <a href="https://www.hardblock.com.au/" target="_blank">HardBlock </a> |
 | CAD       | <a href="https://bullbitcoin.com/fund-your-account" target="_blank">Bull Bitcoin</a> |
 | CHF       | <a href="https://www.sbb.ch/en/station-services/at-the-station/services-from-the-ticket-machine/bitcoin.html" target="_blank">SBB</a> | 
 | CHF       | <a href="https://relai.ch/" target="_blank">Relai</a> | 
