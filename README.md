@@ -4,7 +4,7 @@
 | <a href="/nl/">Nederlands</a> | <a href="/fi/">Suomi</a> | <a href="/pt/">Português</a> | <a href="/de/">German</a> | <a href="/pl/">Polski</a> |
 
 ###### Guiding Principles
-- Starting simply and improving is better than than not starting at all
+- Starting simply and improving is better than not starting at all
 - It's more engaging to use tools before reading a detailed explanation
 - Always keep full control of your bitcoin (use non-custodial tools)
 - Stay focused and avoid scams (use bitcoin-only tools & services)
@@ -87,7 +87,7 @@ Congrats you now officially hold some BTC. As long as you keep your wallet backu
 
 ###### Read
 1. <a href="https://www.amazon.com/dp/1641990503" target="_blank">The Little Bitcoin Book</a>
-2. What Has Government Done to Our Money? (<a href="https://cdn.mises.org/What%20Has%20Government%20Done%20to%20Our%20Money_3.pdf" target="_blank">PDF</a> / <a href="https://mises.org/library/what-has-government-done-our-money-0" target="_blank">Audiobook</a>
+2. What Has Government Done to Our Money? (<a href="https://cdn.mises.org/What%20Has%20Government%20Done%20to%20Our%20Money_3.pdf" target="_blank">PDF</a> / <a href="https://mises.org/library/what-has-government-done-our-money-0" target="_blank">Audiobook</a>)
 3. <a href="https://www.amazon.com/Bitcoin-Sovereignty-mathematics-Knut-Svanholm/dp/1090109911" target="_blank">Sovereignty through mathematics</a>
 4. <a href="https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861" target="_blank">The Bitcoin Standard</a> (<a href="https://www.podbean.com/eu/pb-48576-a563c0" target="_blank">Listen</a> to the prologue)
 - See more at <a href="https://bitcoin-only.com/#learning" target="_blank">bitcoin-only.com</a> & <a href="https://bitcoin-resources.com/" target="_blank">bitcoin-resources.com</a>
