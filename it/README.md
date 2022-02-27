@@ -96,7 +96,7 @@ Congratulazioni, ora possiedi ufficialmente dei bitcoin. Fino a quando terrai le
 ## Passo 4. Che cos'è bitcoin?
 *Obiettivo: Imparare che cos'è Bitcoin*
 
-1. Leggi '<a href="https://bitcoin-only.com/#bitcoin" target="_blank">What Is Bitcoin</a>' di [Greg Walker](https://twitter.com/in3rsha)
+1. Leggi '<a href="https://learnmeabitcoin.com/" target="_blank">What Is Bitcoin</a>' di [Greg Walker](https://twitter.com/in3rsha)
 2. Guarda '<a href="https://www.rt.com/shows/to-the-moon/457141-bitcoin-digital-currencies-revolution/video/5cbc2abbdda4c844198b4657/" target="_blank">Bitcoin - The Genesis</a>' di [RT](https://twitter.com/RT_com)
 
 -----

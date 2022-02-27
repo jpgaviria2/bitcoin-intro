@@ -107,7 +107,7 @@ zugreifen.
 ## Schritt 4. Was ist Bitcoin?
 *Aim: Erfahre, was Bitcoin ist*
 
-1. Lese '<a href="https://bitcoin-only.com/#bitcoin" target="_blank">Was ist Bitcoin</a>' von [Greg Walker](https://twitter.com/in3rsha)
+1. Lese '<a href="https://learnmeabitcoin.com/" target="_blank">Was ist Bitcoin</a>' von [Greg Walker](https://twitter.com/in3rsha)
 2. Schau dir '<a href="https://www.rt.com/shows/to-the-moon/457141-bitcoin-digital-currencies-revolution/video/5cbc2abbdda4c844198b4657/" target="_blank">Bitcoin - The Genesis</a>' von [RT](https://twitter.com/RT_com) an
 
 -----
