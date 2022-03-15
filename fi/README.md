@@ -96,7 +96,7 @@ Onnittelut, omistat nyt bitcoinia. Kukaan ei voi viedä varojasi, kunhan pidät 
 ## Kohta 4. Mikä bitcoin on?
 *Tavoite: Ymmärtää mitä bitcoin on*
 
-1. Lue '<a href="https://learnmeabitcoin.com/" target="_blank">What Is Bitcoin</a>' by [Greg Walker](https://twitter.com/in3rsha)
+1. Lue '<a href="https://bitcoin-only.com/what-is-bitcoin" target="_blank">What Is Bitcoin</a>' by [Greg Walker](https://twitter.com/in3rsha)
 2. Katso '<a href="https://www.rt.com/shows/to-the-moon/457141-bitcoin-digital-currencies-revolution/video/5cbc2abbdda4c844198b4657/" target="_blank">Bitcoin - The Genesis</a>' by [RT](https://twitter.com/RT_com)
 
 -----
