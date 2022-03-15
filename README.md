@@ -73,7 +73,7 @@ Congrats you now officially hold some BTC. As long as you keep your wallet backu
 ## Step 4. What is bitcoin?
 *Aim: Learn what bitcoin is*
 
-1. Read '<a href="https://learnmeabitcoin.com/" target="_blank">What Is Bitcoin</a>' by [Greg Walker](https://twitter.com/in3rsha)
+1. Read '<a href="https://bitcoin-only.com/what-is-bitcoin" target="_blank">What Is Bitcoin</a>' by [Greg Walker](https://twitter.com/in3rsha)
 2. Watch '<a href="https://www.rt.com/shows/to-the-moon/457141-bitcoin-digital-currencies-revolution/video/5cbc2abbdda4c844198b4657/" target="_blank">Bitcoin - The Genesis</a>' by [RT](https://twitter.com/RT_com) (30 mins)
 3. Watch '<a href="https://www.youtube-nocookie.com/embed/DRPeExoH5rY" target="_blank">Understanding Bitcoin</a>' by [BJ Dweck](https://twitter.com/bjdweck) (1h 30m)
 
