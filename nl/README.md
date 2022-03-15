@@ -67,7 +67,7 @@ Gefeliciteerd! Je hebt nu (een gedeelte van een) bitcoin. Zo lang je de 24 woord
 ## Stap 4. Wat is bitcoin?
 *Doel: Leren wat bitcoin nu eigenlijk is*
 
-1. Lees '<a href="https://learnmeabitcoin.com/" target="_blank">What Is Bitcoin</a>' by [Greg Walker](https://twitter.com/in3rsha)
+1. Lees '<a href="https://bitcoin-only.com/what-is-bitcoin" target="_blank">What Is Bitcoin</a>' by [Greg Walker](https://twitter.com/in3rsha)
 2. Kijk '<a href="https://www.rt.com/shows/to-the-moon/457141-bitcoin-digital-currencies-revolution/video/5cbc2abbdda4c844198b4657/" target="_blank">Bitcoin - The Genesis</a>' by [RT](https://twitter.com/RT_com)
 3. Luister '<a href="https://soundcloud.com/cafe_weltschmerz/bitcoin-is-revolutionair-en" target="_blank">Bitcoin is revolutionair en goed geld</a>' door [Café Weltschmerz](https://www.cafeweltschmerz.nl/)
 
